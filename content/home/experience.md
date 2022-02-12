@@ -37,7 +37,7 @@ experience:
     company_logo: org-x
     location: Taipei
     date_start: '2019-01-01'
-    date_end: ''
+    date_end: 'Present'
     description: 
 
 design:
