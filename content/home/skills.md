@@ -41,7 +41,7 @@ feature:
   icon_pack: fas
   name: Genomics
 - description: 85%
-  icon: hospital-users
+  icon: hospital-user
   icon_pack: fas
   name: Precision Medicine
 
